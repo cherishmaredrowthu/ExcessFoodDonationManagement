@@ -2,6 +2,9 @@
 
 A comprehensive MERN stack application that connects food donors (restaurants, hotels, event organizers) with receivers (NGOs, charities, organizations) to reduce food waste in the hospitality industry.
 
+> **Note:** This project is not accessible via cloud-based Git interfaces (like GitHub Codespaces) due to certain limitations.  
+> You can view the live deployed version here: [Live on Vercel](https://donate-food-63ja.vercel.app/)
+
 ## 🌟 Features
 
 ### For Donors
